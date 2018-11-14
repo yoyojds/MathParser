@@ -1,0 +1,9 @@
+C:\Projects\ONP\ONP\bin\Debug\netcoreapp2.0\ONP.deps.json
+C:\Projects\ONP\ONP\bin\Debug\netcoreapp2.0\ONP.dll
+C:\Projects\ONP\ONP\bin\Debug\netcoreapp2.0\ONP.pdb
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.csprojResolveAssemblyReference.cache
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.csproj.CoreCompileInputs.cache
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.AssemblyInfoInputs.cache
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.AssemblyInfo.cs
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.dll
+C:\Projects\ONP\ONP\obj\Debug\netcoreapp2.0\ONP.pdb
